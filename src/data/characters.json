@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "0": {
+        "name": "Eren Yeager",
+        "animeId": 1
+      },
+      "id": 1
+    },
+    {
+      "0": {
+        "name": "Naruto Uzumaki",
+        "animeId": 2
+      },
+      "id": 2
+    },
+    {
+      "0": {
+        "name": "Monkey D. Luffy",
+        "animeId": 3
+      },
+      "id": 3
+    },
+    {
+      "0": {
+        "name": "Light Yagami",
+        "animeId": 4
+      },
+      "id": 4
+    },
+    {
+      "0": {
+        "name": "Izuku Midoriya",
+        "animeId": 5
+      },
+      "id": 5
+    },
+    {
+      "0": {
+        "name": "Rintarou Okabe",
+        "animeId": 6
+      },
+      "id": 6
+    },
+    {
+      "0": {
+        "name": "Ken Kaneki",
+        "animeId": 7
+      },
+      "id": 7
+    },
+    {
+      "0": {
+        "name": "Edward Elric",
+        "animeId": 8
+      },
+      "id": 8
+    },
+    {
+      "0": {
+        "name": "Mitsuha Miyamizu",
+        "animeId": 9
+      },
+      "id": 9
+    },
+    {
+      "0": {
+        "name": "Chihiro Ogino",
+        "animeId": 10
+      },
+      "id": 10
+    }
+  ]
+}

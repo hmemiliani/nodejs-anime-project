@@ -2,56 +2,75 @@
   "animes": [
     {
       "0": {
-        "title": "Attack on Titan",
+        "title": "Naruto",
+        "genre": "Adventure",
+        "studioId": 2
+      },
+      "id": 2
+    },
+    {
+      "0": {
+        "title": "One Piece",
+        "genre": "Adventure",
+        "studioId": 3
+      },
+      "id": 3
+    },
+    {
+      "0": {
+        "title": "Death Note",
+        "genre": "Thriller",
+        "studioId": 4
+      },
+      "id": 4
+    },
+    {
+      "0": {
+        "title": "My Hero Academia",
         "genre": "Action",
         "studioId": 1
       },
-      "1": {
-        "title": "Your Lie in April",
-        "genre": "Romance",
-        "studioId": 1
+      "id": 5
+    },
+    {
+      "0": {
+        "title": "Steins;Gate",
+        "genre": "Sci-Fi",
+        "studioId": 5
       },
-      "2": {
+      "id": 6
+    },
+    {
+      "0": {
+        "title": "Tokyo Ghoul",
+        "genre": "Horror",
+        "studioId": 2
+      },
+      "id": 7
+    },
+    {
+      "0": {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "genre": "Adventure",
+        "studioId": 6
+      },
+      "id": 8
+    },
+    {
+      "0": {
+        "title": "Your Name",
+        "genre": "Romance",
+        "studioId": 3
+      },
+      "id": 9
+    },
+    {
+      "0": {
         "title": "Spirited Away",
         "genre": "Fantasy",
-        "studioId": 1
+        "studioId": 7
       },
-      "3": {
-        "title": "One Punch Man",
-        "genre": "Comedy",
-        "studioId": 1
-      },
-      "4": {
-        "title": "Death Note",
-        "genre": "Thriller",
-        "studioId": 1
-      },
-      "5": {
-        "title": "Clannad: After Story",
-        "genre": "Drama",
-        "studioId": 1
-      },
-      "6": {
-        "title": "My Hero Academia",
-        "genre": "Superhero",
-        "studioId": 1
-      },
-      "7": {
-        "title": "Steins;Gate",
-        "genre": "Science Fiction",
-        "studioId": 1
-      },
-      "8": {
-        "title": "Haikyuu!!",
-        "genre": "Sports",
-        "studioId": 1
-      },
-      "9": {
-        "title": "Mob Psycho 100",
-        "genre": "Supernatural",
-        "studioId": 1
-      },
-      "id": 1
+      "id": 10
     }
   ]
 }

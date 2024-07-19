@@ -1,62 +1,62 @@
 {
-  "studios": [
+  "directors": [
     {
       "0": {
-        "name": "Bones"
+        "name": "Hayao Miyazaki"
       },
       "id": 1
     },
     {
       "0": {
-        "name": "Pierrot"
+        "name": "Makoto Shinkai"
       },
       "id": 2
     },
     {
       "0": {
-        "name": "Toei Animation"
+        "name": "Satoshi Kon"
       },
       "id": 3
     },
     {
       "0": {
-        "name": "Madhouse"
+        "name": "Hideaki Anno"
       },
       "id": 4
     },
     {
       "0": {
-        "name": "White Fox"
+        "name": "Mamoru Hosoda"
       },
       "id": 5
     },
     {
       "0": {
-        "name": "Studio Ghibli"
+        "name": "Isao Takahata"
       },
       "id": 6
     },
     {
       "0": {
-        "name": "Sunrise"
+        "name": "Goro Miyazaki"
       },
       "id": 7
     },
     {
       "0": {
-        "name": "Kyoto Animation"
+        "name": "Naoko Yamada"
       },
       "id": 8
     },
     {
       "0": {
-        "name": "A-1 Pictures"
+        "name": "Tetsuro Araki"
       },
       "id": 9
     },
     {
       "0": {
-        "name": "MAPPA"
+        "name": "Akiyuki Shinbo"
       },
       "id": 10
     }
