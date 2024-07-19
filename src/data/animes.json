@@ -1,0 +1,57 @@
+{
+  "animes": [
+    {
+      "0": {
+        "title": "Attack on Titan",
+        "genre": "Action",
+        "studioId": 1
+      },
+      "1": {
+        "title": "Your Lie in April",
+        "genre": "Romance",
+        "studioId": 1
+      },
+      "2": {
+        "title": "Spirited Away",
+        "genre": "Fantasy",
+        "studioId": 1
+      },
+      "3": {
+        "title": "One Punch Man",
+        "genre": "Comedy",
+        "studioId": 1
+      },
+      "4": {
+        "title": "Death Note",
+        "genre": "Thriller",
+        "studioId": 1
+      },
+      "5": {
+        "title": "Clannad: After Story",
+        "genre": "Drama",
+        "studioId": 1
+      },
+      "6": {
+        "title": "My Hero Academia",
+        "genre": "Superhero",
+        "studioId": 1
+      },
+      "7": {
+        "title": "Steins;Gate",
+        "genre": "Science Fiction",
+        "studioId": 1
+      },
+      "8": {
+        "title": "Haikyuu!!",
+        "genre": "Sports",
+        "studioId": 1
+      },
+      "9": {
+        "title": "Mob Psycho 100",
+        "genre": "Supernatural",
+        "studioId": 1
+      },
+      "id": 1
+    }
+  ]
+}
